@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ... NULL
 - 📫 How to reach me ... :///
 - 😄 Pronouns: ... HE/HE/HE (cheesy ik)
-- ⚡ Fun fact: ... Nothing, My whole life is dark.
 
 <!---
 evoziosk/evoziosk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
