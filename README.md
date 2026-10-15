@@ -43,3 +43,7 @@ QML, C++, Python, and Dart. Linux and Wayland on the desktop; Flutter for mobile
 <p align="center"><img src="assets/divider.svg" width="640" height="20" alt="" /></p>
 
 Have a question about a project? Open an issue in its repository.
+
+<p align="center">
+  <img src="assets/anime-head-spin.svg" width="120" height="120" alt="A slowly spinning anime girl head" />
+</p>
