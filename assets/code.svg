@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28" role="img"><title>Development tools</title><style>
+.ink { stroke: #57606a; }
+@media (prefers-color-scheme: dark) { .ink { stroke: #b1bac4; } }
+@media (prefers-reduced-motion: reduce) { .motion { animation: none !important; } }
+.motion { animation: code 7s ease-in-out infinite; }
+@keyframes code { 0%, 100% { opacity: 1; } 50% { opacity: .35; } }</style><g class="ink" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m8 7-6 7 6 7m12-14 6 7-6 7"/><path class="motion" d="m16 4-4 20"/></g></svg>

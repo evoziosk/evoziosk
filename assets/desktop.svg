@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28" role="img"><title>Desktop shell</title><style>
+.ink { stroke: #57606a; }
+@media (prefers-color-scheme: dark) { .ink { stroke: #b1bac4; } }
+@media (prefers-reduced-motion: reduce) { .motion { animation: none !important; } }
+.motion { animation: workspace 6s ease-in-out infinite; }
+@keyframes workspace { 0%, 25%, 100% { transform: translateX(0); } 45%, 75% { transform: translateX(6px); } }</style><g class="ink" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="22" height="16" rx="3"/><path d="M10 25h8M14 20v5"/><rect class="motion" x="6" y="8" width="10" height="8" rx="1"/></g></svg>

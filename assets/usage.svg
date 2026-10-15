@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28" role="img"><title>Usage monitor</title><style>
+.ink { stroke: #57606a; }
+@media (prefers-color-scheme: dark) { .ink { stroke: #b1bac4; } }
+@media (prefers-reduced-motion: reduce) { .motion { animation: none !important; } }
+.motion { transform-origin: 0 24px; animation: meter 5s ease-in-out infinite; }
+.second { animation-delay: -1.5s; } .third { animation-delay: -3s; }
+@keyframes meter { 0%, 100% { transform: scaleY(1); } 50% { transform: scaleY(.45); } }</style><g class="ink" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 25h22"/><path class="motion" d="M7 22V12"/><path class="motion second" d="M14 22V5"/><path class="motion third" d="M21 22V9"/></g></svg>
