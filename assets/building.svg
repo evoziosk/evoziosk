@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="54" viewBox="0 0 640 54" role="img" aria-labelledby="title desc">
+  <title id="title">Building things, one commit at a time.</title>
+  <desc id="desc">A minimal animated terminal line.</desc>
+  <style>
+    .ink { fill: #57606a; }
+    .cursor { animation: blink 1.2s steps(1, end) infinite; }
+    .reveal { animation: typing 10s steps(38, end) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @keyframes typing { 0%, 8% { width: 0; } 55%, 100% { width: 470px; } }
+    @media (prefers-color-scheme: dark) { .ink { fill: #b1bac4; } }
+    @media (prefers-reduced-motion: reduce) { .cursor, .reveal { animation: none; } }
+  </style>
+  <defs><clipPath id="text"><rect class="reveal" width="470" height="54" x="104"/></clipPath></defs>
+  <text class="ink" x="82" y="32" font-family="monospace" font-size="15">&gt;</text>
+  <g clip-path="url(#text)">
+    <text class="ink" x="104" y="32" font-family="monospace" font-size="15">building things, one commit at a time.</text>
+    <rect class="ink cursor" x="451" y="20" width="7" height="15"/>
+  </g>
+</svg>

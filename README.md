@@ -6,6 +6,12 @@ Currently working on the MangoWC port of Caelestia, AI usage monitoring, and a b
 
 [Explore my repositories](https://github.com/evoziosk?tab=repositories)
 
+<p align="center">
+  <img src="assets/anime-showcase.png" width="640" alt="Anime illustration of a programmer with a laptop on a white background" />
+  <br />
+  <img src="assets/building.svg" width="640" alt="Building things, one commit at a time." />
+</p>
+
 ## Selected work
 
 ### [Caelestia · MangoWC](https://github.com/evoziosk/caelestia-shell-mango)
