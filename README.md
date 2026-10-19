@@ -14,6 +14,14 @@ Currently working on the MangoWC port of Caelestia, AI usage monitoring, and a b
 
 ## Selected work
 
+### <img src="assets/usage.svg" width="22" height="22" alt="" /> [YTM Listen](https://github.com/evoziosk/ytm)
+
+An open-source YouTube Music desktop app for Windows, with Discord Rich Presence, global popup search, lyrics, and synchronized listening rooms with friends.
+
+`Rust` `Tauri` `Svelte` `Cloudflare`
+
+[Download for Windows](https://github.com/evoziosk/ytm/releases/latest)
+
 ### <img src="assets/desktop.svg" width="22" height="22" alt="" /> [Caelestia · MangoWC](https://github.com/evoziosk/caelestia-shell-mango)
 
 A community port of the Caelestia desktop shell from Hyprland to MangoWC. Adapts workspace management, window previews, panels, and desktop controls to Mango's compositor interfaces.
